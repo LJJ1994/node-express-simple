@@ -20,7 +20,21 @@ server.use('url',function(req,res){
 
 ![image](https://github.com/LJJ1994/node-express-simple/blob/master/imges/1.jpg)
 
-![image]()
+
+
+
+
+![image](https://github.com/LJJ1994/node-express-simple/blob/master/imges/2.jpg)
+
+2.当密码错误，或者用户名不正确时：
+
+![image](https://github.com/LJJ1994/node-express-simple/blob/master/imges/3.jpg)
+
+
+
+
+![image](https://github.com/LJJ1994/node-express-simple/blob/master/imges/4.jpg)
+
 
 
 
